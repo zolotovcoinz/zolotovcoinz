@@ -1,1 +1,1 @@
-<font color="#9fd48ed9"><b>GREEN TEXT</b></font>
+<span style="color: #2ECC71;">
